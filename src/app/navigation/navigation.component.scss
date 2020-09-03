@@ -1,0 +1,24 @@
+.toprow{
+    background-color:#fff!important; 
+    margin-left:0px!important; 
+    margin-right:0px!important;
+}
+
+.bg-light {
+    background-color: #fff!important;
+}
+
+.nav-item {
+    a {
+        font-family: Arial, Helvetica, sans-serif;
+        
+        &.active    
+        {
+            font-weight: 500;
+            border-bottom: 1px solid;
+            display: block;
+            padding-bottom: 3px;
+        }  
+    }
+}
+  

@@ -1,0 +1,14 @@
+
+<app-navigation> 
+</app-navigation>
+<div class="container maincontainer" *ngIf="settings.loader">
+    <div class="col-sm-12 ">
+        <div class="jumbotron">
+            <div class=" mx-auto d-flex justify-content-center" >                        
+                <div class="lds-ellipsis"><div></div><div></div><div></div><div></div></div>
+            </div>
+        </div>
+    </div>
+</div>
+<router-outlet></router-outlet>
+<app-footer></app-footer>
