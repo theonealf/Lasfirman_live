@@ -29,7 +29,7 @@ export class ApiServiceService {
 
   doPost(url:string, postobj){    
     const httpOptions = {
-      headers: new HttpHeaders({'Content-Type': 'application/json'})
+      headers: new HttpHeaders({'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*'})
     }
     return this.http.post(url,JSON.stringify(postobj),httpOptions)
     .pipe(
