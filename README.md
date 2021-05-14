@@ -1,27 +1,10 @@
 # Lasfirman
+2021-05-15:
+organisering av webplatsen. skapa en webplats och organisera alla
+domäneadresser.
+(jag har flyttat filerna och rensat gammal data. mapparna är kvar i ftp_trädet men tömda.) 1tim --klart
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.3.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+uppdatering och ompekning av domänadresser --> 0.5tim --klart
+SSL --> 0.5 tim --klart
+flytt av läsfirman.se till lasfirman.se --> 0.5 tim --klart
+skapa utvecklingssida dvs klon av läsfirman.se till ny.lasfirman.se ​--> 1tim --klart
