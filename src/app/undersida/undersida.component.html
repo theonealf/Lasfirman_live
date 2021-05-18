@@ -4,7 +4,7 @@
             <div class="container">
                 <div class="row" *ngFor="let obj of pagedata">
                     <div class="col-md-4 col-lg-4 justify-content-left">
-                        <img class="responsive" src="{{obj.better_featured_image.source_url}}">
+                        <img class="responsive" src="{{obj.better_featured_image.media_details.sizes.medium.source_url}}">
                     </div>
                     <div class="col-md-8 col-lg-8 justify-content-left pt-2" [innerHTML]="obj.content.rendered">                        
                         
