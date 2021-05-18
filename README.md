@@ -12,4 +12,4 @@ skapa utvecklingssida dvs klon av läsfirman.se till ny.lasfirman.se ​--> 1tim
 2021-05-18
 fix av facebook share bild mm. 
 fix av css för hover av bilder .responsive och .responsive:hover
-fix av långsamladdning av main bilder ändrade: img class="responsive" src="obj.better_featured_image.source_url" till img class="responsive"    src="obj.better_featured_image.media_details.sizes.medium.source_url"
+fix av långsamladdning av main bilder ändrade: img class="responsive" src="obj.better_featured_image.source_url" till img class="responsive"    src="obj.better_featured_image.media_details.sizes.medium.source_url" --> 0.5tim
